@@ -1,0 +1,5 @@
+# Download this package from Oracle (after accepting the conditions) and place it in the folder along the Dockerfile
+# ====
+#  - http://download.oracle.com/otn-pub/java/jdk/7u79-b15/jdk-7u79-linux-x64.rpm 
+#
+jdk-7u79-linux-x64.rpm
